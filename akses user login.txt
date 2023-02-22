@@ -1,0 +1,8 @@
+/*----------Akses Login--------*/
+
+APLIKASI INPUT DATA KARYAWAN BERBASIS WEB*/
+
+NIK		: 101651016
+Password	: 123admin456
+
+/*----Thanks To Pak Robby-----*/ 
